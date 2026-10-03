@@ -30,7 +30,7 @@ header {
    Parte 5: os dois alunos alteram esta regra ao mesmo tempo */
 h1 {
     color: #2ecc71; /* verde */
-    font-size: 3rem; /* configuração do ambiente B */
+    font-size: 3.1rem; /* configuração do ambiente B */
     text-align: left; /* alinhamento do ambiente B */
 }
 
